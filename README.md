@@ -22,4 +22,8 @@
 ## Stack
 
 * [20.Valid Parentheses](https://github.com/zyq2652192993zyq/LeetCode/blob/master/Stack/20.Valid%20Parentheses.md)
+* [71.Simplify Path](https://github.com/zyq2652192993zyq/LeetCode/blob/master/Stack/71.Simplify%20Path.md)
+* [84.Largest Rectangle in Histogram](https://github.com/zyq2652192993zyq/LeetCode/blob/master/Stack/84.Largest%20Rectangle%20in%20Histogram.md)
+* [150.Evaluate Reverse Polish Notation](https://github.com/zyq2652192993zyq/LeetCode/blob/master/Stack/150.Evaluate%20Reverse%20Polish%20Notation.md)
+
 
