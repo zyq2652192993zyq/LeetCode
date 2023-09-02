@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb4a99b4f9f280b",
+        "id": "a108036f7c453e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "e53f45385d5511a2",
+            "id": "920490290b9ca99c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "All-Solution/818.Race Car.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4e98e47a0e341608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "All-Solution/818.Race Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "All-Solution/818.Race Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "All-Solution/818.Race Car.md"
+              }
             }
           }
         ]
@@ -138,8 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e53f45385d5511a2",
+  "active": "920490290b9ca99c",
   "lastOpenFiles": [
-    "Dynamica Programming/1416.Restore The Array.md"
+    "All-Solution/818.Race Car.md",
+    "All-Solution/805.Split Array With Same Average.md",
+    "All-Solution/2092.Find All People With Secret.md",
+    "All-Solution/2076.Process Restricted Friend Requests.md",
+    "All-Solution/1631.Path With Minimum Effort.md",
+    "All-Solution/1631.Path With Minimum Effort.assets",
+    "All-Solution/990.Satisfiability of Equality Equations.md",
+    "All-Solution/839.Similar String Groups.md",
+    "All-Solution/827.Making A Large Island.md",
+    "All-Solution/685.Redundant Connection II.md",
+    "All-Solution/685.Redundant Connection II.assets",
+    "All-Solution/684.Redundant Connection.md",
+    "All-Solution/684.Redundant Connection.assets",
+    "All-Solution/547.Number of Provinces.md",
+    "All-Solution/面试题 10.01. 合并排序的数组.md",
+    "All-Solution/1658.Minimum Operations to Reduce X to Zero.md",
+    "All-Solution/1537.Get the Maximum Score.md",
+    "All-Solution/1513.Number of Substrings With Only 1s.md",
+    "All-Solution/1498.Number of Subsequences That Satisfy the Given Sum Condition.md",
+    "All-Solution/1423.Maximum Points You Can Obtain from Cards.md",
+    "All-Solution/1248.Count Number of Nice Subarrays.md",
+    "All-Solution/763.Partition Labels.md",
+    "All-Solution/713.Subarray Product Less Than K.md",
+    "All-Solution/696.Count Binary Substrings.md",
+    "All-Solution/680.Valid Palindrome II.md",
+    "All-Solution/581.Shortest Unsorted Continuous Subarray.md",
+    "All-Solution/567.Permutation in String.md",
+    "All-Solution/524.Longest Word in Dictionary through Deleting.md",
+    "All-Solution/457.Circular Array Loop.md",
+    "All-Solution/212.Word Search II.assets",
+    "All-Solution/1104.Path In Zigzag Labelled Binary Tree.assets",
+    "All-Solution/1008.Construct Binary Search Tree from Preorder Traversal.assets/1266.png",
+    "All-Solution/1008.Construct Binary Search Tree from Preorder Traversal.assets",
+    "All-Solution/897.Increasing Order Search Tree.assets",
+    "All-Solution/872.Leaf-Similar Trees.assets",
+    "LintCode",
+    "All-Solution/LintCode",
+    "All-Solution/1453.Maximum Number of Darts Inside of a Circular Dartboard.assets/image-20200517162649745.png",
+    "All-Solution/1453.Maximum Number of Darts Inside of a Circular Dartboard.assets/image-20200517154917845.png",
+    "All-Solution/e1.png",
+    "All-Solution/837.New 21 Game.assets/演示文稿1.png",
+    "All-Solution/2088.Count Fertile Pyramids in a Land.assets/image-20211221223659752.png",
+    "All-Solution/126.Word Ladder II.assets/image-20200607102401241.png",
+    "All-Solution/Leftmost Column with at Least a One.assets/untitled-diagram-6.jpg",
+    "All-Solution/Leftmost Column with at Least a One.assets/untitled-diagram-5.jpg",
+    "All-Solution/Leftmost Column with at Least a One.assets/untitled-diagram-4.jpg"
   ]
 }
