@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All-Solution/818.Race Car.md",
+                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All-Solution/818.Race Car.md",
+                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All-Solution/818.Race Car.md",
+                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All-Solution/818.Race Car.md"
+                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   "active": "920490290b9ca99c",
   "lastOpenFiles": [
     "All-Solution/818.Race Car.md",
+    "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
     "All-Solution/805.Split Array With Same Average.md",
     "All-Solution/2092.Find All People With Secret.md",
     "All-Solution/2076.Process Restricted Friend Requests.md",
@@ -184,7 +185,6 @@
     "All-Solution/581.Shortest Unsorted Continuous Subarray.md",
     "All-Solution/567.Permutation in String.md",
     "All-Solution/524.Longest Word in Dictionary through Deleting.md",
-    "All-Solution/457.Circular Array Loop.md",
     "All-Solution/212.Word Search II.assets",
     "All-Solution/1104.Path In Zigzag Labelled Binary Tree.assets",
     "All-Solution/1008.Construct Binary Search Tree from Preorder Traversal.assets/1266.png",
