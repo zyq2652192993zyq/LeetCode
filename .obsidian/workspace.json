@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
+                "file": "All-Solution/365.Water and Jug Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c2abc3cfd2b2e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All-Solution/403.Frog Jump.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
+                "file": "All-Solution/403.Frog Jump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
+                "file": "All-Solution/403.Frog Jump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md"
+                "file": "All-Solution/403.Frog Jump.md"
               }
             }
           }
@@ -154,11 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "920490290b9ca99c",
+  "active": "3cc212ea19c82136",
   "lastOpenFiles": [
-    "All-Solution/818.Race Car.md",
-    "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
+    "All-Solution/365.Water and Jug Problem.md",
+    "All-Solution/403.Frog Jump.md",
+    "LintCode/516.Paint House II.md",
     "All-Solution/805.Split Array With Same Average.md",
+    "All-Solution/828.Count Unique Characters of All Substrings of a Given String.md",
+    "All-Solution/818.Race Car.md",
     "All-Solution/2092.Find All People With Secret.md",
     "All-Solution/2076.Process Restricted Friend Requests.md",
     "All-Solution/1631.Path With Minimum Effort.md",
@@ -182,9 +198,6 @@
     "All-Solution/713.Subarray Product Less Than K.md",
     "All-Solution/696.Count Binary Substrings.md",
     "All-Solution/680.Valid Palindrome II.md",
-    "All-Solution/581.Shortest Unsorted Continuous Subarray.md",
-    "All-Solution/567.Permutation in String.md",
-    "All-Solution/524.Longest Word in Dictionary through Deleting.md",
     "All-Solution/212.Word Search II.assets",
     "All-Solution/1104.Path In Zigzag Labelled Binary Tree.assets",
     "All-Solution/1008.Construct Binary Search Tree from Preorder Traversal.assets/1266.png",
